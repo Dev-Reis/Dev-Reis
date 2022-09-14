@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  👑 Fala, devs! Me chama Victoria Reis. Sou apaixonada por programação e hoje me encontro estudando cada vez mais esta área.
+  👑 Fala, devs! Me chamo Victoria Reis. Sou apaixonada por programação e hoje me encontro estudando cada vez mais esta área.
 </p>
 
 <p align="left">
